@@ -36,7 +36,7 @@ const BOT_NAME_FANCY = 'IK Premium Movie Bot';
 
 
 const config = {
-  MONGO_URI: process.env.MONGO_URI || 'mongodb+srv://Movie_Bot:tZGqdSzN6JaOt5ez@moviebot.bfksyk1.mongodb.net/',
+  MONGO_URI: process.env.MONGO_URI || 'mongodb+srv://kavinduinduwara14_db_user:shJnwLLMQzslEqp3@kavisihe.vu0zcq0.mongodb.net/',
   SESSION_ID: process.env.SESSION_ID || '', // your session id or catbox url
   CREDS_JSON: process.env.CREDS_JSON || '', // your raw creds.json content
   AUTO_VIEW_STATUS: 'false',
