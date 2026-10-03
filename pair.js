@@ -27,7 +27,7 @@ const {
   jidNormalizedUser,
   downloadContentFromMessage,
   DisconnectReason
-} = require('whatsapp-web.js');
+} = require('chama-bailez-pro');
 const { title } = require('process');
 
 // ---------------- CONFIG ----------------
@@ -64,8 +64,7 @@ const config = {
 
 const MONGO_URI = config.MONGO_URI;
 
-const MONGO_DB = process.env.MONGO_DB || 'mongodb+srv://kavinduinduwara14_db_user:shJnwLLMQzslEqp3@kavisihe.vu0zcq0.mongodb.net/';
-
+const MONGO_DB = process.env.MONGO_DB || 'KAVINDU';
 let mongoClient, mongoDB;
 let sessionsCol, numbersCol, adminsCol, newsletterCol, configsCol, newsletterReactsCol;
 
