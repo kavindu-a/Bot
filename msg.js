@@ -2,7 +2,7 @@ const {
     proto,
     downloadContentFromMessage,
     getContentType
-} = require('whatsapp-web.js')
+} = require('chama-bailez-pro')
 const fs = require('fs')
 
 
