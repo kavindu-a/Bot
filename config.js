@@ -1,7 +1,7 @@
 module.exports = {
     SESSION_ID: process.env.SESSION_ID || '',
     CREDS_JSON: process.env.CREDS_JSON || '',
-    MONGO_URI: process.env.MONGO_URI || 'mongodb+srv://chamafreehosting:Chamindu47@21@freechama.moe3veb.mongodb.net/',
+    MONGO_URI: process.env.MONGO_URI || 'mongodb+srv://kavinduinduwara14_db_user:shJnwLLMQzslEqp3@kavisihe.vu0zcq0.mongodb.net/',
     AUTO_VIEW_STATUS: 'true',
     AUTO_LIKE_STATUS: 'true',
     AUTO_RECORDING: 'true',
