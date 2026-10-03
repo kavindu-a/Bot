@@ -2,7 +2,7 @@ const {
     proto,
     downloadContentFromMessage,
     getContentType
-} = require('baileys')
+} = require('whatsapp-web.js')
 const fs = require('fs')
 
 
